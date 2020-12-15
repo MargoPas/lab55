@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33cbe583-c64b-4c05-bbe9-3e605f879426" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/trying_to_do_docker/server/contollers/user_control.js" beforeDir="false" afterPath="$PROJECT_DIR$/trying_to_do_docker/server/contollers/user_control.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trying_to_do_docker/server/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/trying_to_do_docker/server/router.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/trying_to_do_docker" />
+  </component>
+  <component name="ProjectId" id="1lNWuI2HWKuLXp3Y6ELrpsxk13E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33cbe583-c64b-4c05-bbe9-3e605f879426" name="Default Changelist" comment="" />
+      <created>1607438250979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607438250979</updated>
+      <workItem from="1607438252561" duration="8498000" />
+      <workItem from="1607403393810" duration="3051000" />
+      <workItem from="1607403665523" duration="3700000" />
+      <workItem from="1607410834972" duration="5146000" />
+      <workItem from="1607409466989" duration="597000" />
+      <workItem from="1607559595306" duration="10176000" />
+      <workItem from="1607577465650" duration="2252000" />
+      <workItem from="1607559498978" duration="5142000" />
+      <workItem from="1607969950594" duration="578000" />
+      <workItem from="1607969915197" duration="1297000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
