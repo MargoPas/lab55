@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "Rita",
+    "password": "no_passwd",
+    "database": "users",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "Rita",
+    "password": "no_passwd",
+    "database": "users",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "Rita",
+    "password": "no_passwd",
+    "database": "users",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
