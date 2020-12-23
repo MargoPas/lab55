@@ -17,7 +17,9 @@ module.exports = (sequelize, DataTypes) => {
     CampaignName: DataTypes.STRING,
     CampaignQuest: DataTypes.STRING,
     CampaignSituation: DataTypes.STRING,
-    user_id:DataTypes.STRING,
+    User_id: DataTypes.STRING,
+    Number: DataTypes.INTEGER,
+    UserList: DataTypes.STRING
   }, {
     sequelize,
     modelName: 'Campaigns',

@@ -12,11 +12,15 @@ let isAuthenticated = function (req, res, next) {
 let isAdmin = function (req, res, next) {
     if (req.user) {
         if (req.user.role == 'admin') {
-            return next();
+            return res.json({
+                status: "admin"
+            })
         }
-        return res.json({
-            status: "not admin"
-        })
+        else {
+            return res.json({
+                status: "not admin"
+            })
+        }
     }
     else{
         return res.json({
@@ -76,6 +80,10 @@ router.post("/api/newCampaign", user_ctrl.saveCampaign);
 router.get("/api/newCampaign", isUser)
 router.get("/api/user_id", user_ctrl.getUserID);
 router.get('/api/error', user_ctrl.getMessage);
-
-
+router.get('/api/allcampaigns', user_ctrl.getAll)
+router.post('/api/update_UserList', user_ctrl.newNumber)
+router.post('/api/get_number', user_ctrl.getNumber)
+router.get('/api/getMyCampaigns', user_ctrl.findUsersAllCampaigns)
+router.post('/api/deleteCampaign', user_ctrl.delete)
+router.get('/api/deleteCampaign', isAdmin)
 module.exports = router
